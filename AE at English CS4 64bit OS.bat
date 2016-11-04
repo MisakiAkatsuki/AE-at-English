@@ -1,6 +1,6 @@
 @echo off
-echo Adobe After Effects CS4‚ğ‰pŒê”Å‚Å‹N“®‚µ‚Ü‚·.
-echo (‚±‚ê‚Í64bit OS—pbat‚Å‚·)
+echo Adobe After Effects CS4â€šÃ°â€°pÅ’Ãªâ€Ã…â€šÃ…â€¹Nâ€œÂ®â€šÂµâ€šÃœâ€šÂ·.
+echo (â€šÂ±â€šÃªâ€šÃ64bit OSâ€”pbatâ€šÃ…â€šÂ·)
 
 start "" "C:\Program Files (x86)\Adobe\Adobe After Effects CS4\Support Files\AfterFx.exe" -L en_US
 
