@@ -1,6 +1,6 @@
 @echo off
-echo Adobe After Effects CS4‚ð‰pŒê”Å‚Å‹N“®‚µ‚Ü‚·.
-echo (‚±‚ê‚Í64bit OS—pbat‚Å‚·)
+echo Adobe After Effects CS4を英語版で起動します.
+echo (これは64bit OS用batです)
 
 start "" "C:\Program Files (x86)\Adobe\Adobe After Effects CS4\Support Files\AfterFx.exe" -L en_US
 
