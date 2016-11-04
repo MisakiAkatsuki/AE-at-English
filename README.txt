@@ -11,6 +11,8 @@
   Windows版 Adobe After Effects CS4以上
 
 バージョン情報
+  2016/6/23 Ver 1.4.0
+    After Effects CC 2015.3に対応
   2015/6/16 Ver 1.3.0
     After Effects CC 2015に対応
   2014/6/20 Ver 1.2.0
